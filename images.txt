@@ -1,5 +1,1 @@
-ghcr.io/open-webui/open-webui:main
-portainer/portainer-ce:latest
-wekanteam/wekan:latest
-mongo:latest
-mongo:4.4.8
+redis
