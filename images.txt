@@ -1,2 +1,1 @@
-library/redis
-mysql:8
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
