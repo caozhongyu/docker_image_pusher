@@ -1,1 +1,3 @@
-from library/redis
+library/redis
+docker.imgdb.de/library/redis
+docker.1ms.run/libary/redis
