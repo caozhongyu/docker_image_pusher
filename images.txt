@@ -1,3 +1,1 @@
-prom/prometheus
-grafana/grafana-enterprise
-grafana/grafana-oss
+ghcr.io/open-webui/open-webui:main
