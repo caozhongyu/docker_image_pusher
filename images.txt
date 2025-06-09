@@ -1,1 +1,3 @@
-greatsql/greatsql
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+postgres:15-alpine
