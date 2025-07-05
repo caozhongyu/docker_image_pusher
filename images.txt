@@ -1,1 +1,1 @@
-mineru-sglang:latest
+opendatalab/mineru-sglang:latest
