@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:v0.6.15
+mineru-sglang:latest
