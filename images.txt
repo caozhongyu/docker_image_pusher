@@ -1,2 +1,2 @@
-mineru-sglang:latest
-mineru-sglang:latest
+lmsysorg/sglang/mineru-sglang:latest
+lmsysorg/sglang/mineru-sglang:latest
